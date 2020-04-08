@@ -19,7 +19,7 @@ In order to map predicted values to probabilities, we use the Sigmoid function. 
 
 ![SIGMOID](https://user-images.githubusercontent.com/36560636/78674890-ec068580-7901-11ea-87fd-73fe37d42d1d.PNG)
 
-#The data-set used contains the following parameters:
+# The data-set used contains the following parameters:
 
 Input variables:
 Age (numeric)
@@ -32,7 +32,7 @@ Personal_Loan: has a personal loan? (binary: 'yes', 'no')
 Output variable (desired target):
 Subscribed - has the client subscribed a long-term deposit? (binary: 'yes', 'no')
 
-#Visualizations in form of various graphs is provided as per the data from the dataset.
+# Visualizations in form of various graphs is provided as per the data from the dataset.
 
 ![download](https://user-images.githubusercontent.com/36560636/78676587-430d5a00-7904-11ea-8d45-59e80bc801a3.png)
 
